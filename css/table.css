@@ -1,0 +1,26 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table__cell {
+    border: 5px solid rgb(12, 8, 8);
+    padding: 15px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table__cell--header {
+    background-color: aqua;
+    color: grey;
+    font-weight: normal;
+}
+
+.table__row:nth-child(even) {
+    background: #eee;
+}
+
+.table__row:hover {
+    background-color: #ddd;
+}

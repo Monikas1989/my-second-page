@@ -1,0 +1,22 @@
+.link {
+    color: rgb(3, 24, 145);
+}
+
+.link:visited {
+    color: rgb(3, 24, 145);
+}
+
+.link:focus {
+    outline: 2px solid currentColor;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: brown;
+    border-bottom: 0px solid;
+    outline: none;
+}
+
+.link:active {
+    color: rgb(18, 204, 18);
+}
