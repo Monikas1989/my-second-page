@@ -1,4 +1,4 @@
-# my-second-page
+# My second page
 This page is next exercise of my training - YouCode.
 There is more code used than earlier, more work and more skills.
 This page is in polish language. I used a few graphics there, picture and a table.
