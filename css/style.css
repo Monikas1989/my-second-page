@@ -1,15 +1,14 @@
 .body {
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-    max-width: 1000px;
+    max-width: 7000px;
     margin: 0 auto;
+    padding: 25px;
 }
 
 *, ::after, ::before {
     box-sizing: border-box;
 }
-
-
 
 .caption {
     margin: 20px;
@@ -22,16 +21,12 @@
     padding: 15px;
 }
 
-
 .aside {
     width: 1000px;
     background: rgb(142, 230, 236);
     padding: 30px;
     border: 2px outset rgb(168, 16, 143);
-
 }
-
-
 
 .footer {
     margin: 200px;
@@ -51,10 +46,8 @@
 
 .list__item {
     list-style-type: none;
-
-
 }
 
 .img {
-    margin-left: 200px;
+    position: center;
 }
